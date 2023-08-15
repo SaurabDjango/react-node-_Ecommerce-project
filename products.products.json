@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "649a62aec3d7e47dbfa4fc67"
+  },
+  "Name": "pents",
+  "Price": 20,
+  "ImageUrl": "public\\upload\\product-2.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649a62c1c3d7e47dbfa4fc6c"
+  },
+  "Name": "Shirts",
+  "Price": 20,
+  "ImageUrl": "public\\upload\\product-5.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649a62f7c3d7e47dbfa4fc70"
+  },
+  "Name": "kurta",
+  "Price": 20,
+  "ImageUrl": "public\\upload\\product-12.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649a634fc3d7e47dbfa4fc75"
+  },
+  "Name": "Shoes",
+  "Price": 150,
+  "ImageUrl": "public\\upload\\product-3.jpg",
+  "__v": 0
+}]
